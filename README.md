@@ -1,10 +1,10 @@
 # 2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad
-University: ITMO University
-Faculty: FTMI
-Course: Cloud platforms as the basis of technology entrepreneurship
-Year: 2024/2025
-Group: U4125
-Author: Maslivets Arthur Denisovich
-Lab: Lab1
-Date of create: 29.04.2025
-Date of finished: in progress
+<b>University:</b> [ITMO University](https://itmo.ru/ru/) <br>
+<b>Faculty:</b> [FTMI](https://ftmi.itmo.ru) <br>
+<b>Course:</b> [Cloud platforms as the basis of technology entrepreneurship](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/) <br>
+<b>Year:</b> 2024/2025 <br>
+<b>Group:</b> U4125 <br>
+<b>Author:</b> Maslivets Arthur Denisovich <br>
+<b>Lab:</b> Lab1 <br>
+<b>Date of create:</b> 21.04.2025 <br>
+<b>Date of finished:</b> 25.04.2025<br>
