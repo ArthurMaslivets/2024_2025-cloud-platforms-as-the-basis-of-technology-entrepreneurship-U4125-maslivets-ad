@@ -25,7 +25,5 @@
 ![screenshot](https://github.com/ArthurMaslivets/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad/blob/ffc41f5c406b91fcbe56225a714909b98ee7501c/lab2/photo_1_2025-04-28_23-21-34.jpg)
 7 шаг. Теперь применим трафик 70%.
 ![screenshot](https://github.com/ArthurMaslivets/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad/blob/ec33b699486a7440ba54e935c19a324af22099a5/lab2/Screenshot_1.png)
-8 шаг. Рассмотрим изменения в метриках и при логах при изменении трафика. 
-![screenshot]
-9 шаг. Удалим Cloud Run.
+8 шаг. Удалим Cloud Run.
 
