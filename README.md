@@ -5,6 +5,5 @@
 <b>Year:</b> 2024/2025 <br>
 <b>Group:</b> U4125 <br>
 <b>Author:</b> Maslivets Arthur Denisovich <br>
-<b>Lab:</b> Lab1 <br>
 <b>Date of create:</b> 21.04.2025 <br>
-<b>Date of finished:</b> 25.04.2025<br>
+<b>Date of finished:</b> 02.05.2025(in progress)<br>
