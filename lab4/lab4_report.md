@@ -19,7 +19,8 @@
 
 **Описание этапа:**
 На этом этапе приложение разрабатывается и тестируется внутри команды. Основной упор на быстрое развертывание и минимальные затраты.
-![screenshot]()
+![screenshot](https://github.com/ArthurMaslivets/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad/blob/e39e84de8b9f0478797e75213d3b560ff9876602/lab4/11.png)
+
 **Компоненты:**
 
 •	Cloud Run: Размещение API-сервиса, обрабатывающего запросы.
@@ -27,6 +28,12 @@
 •	Cloud Storage: Хранение предобученной модели 
 
 •	Firestore: Сохранение истории запросов и результатов анализа.
+
+Стоимость за месяц $:
+Cloud Run	4.12 $
+Firestore	8.82 $
+Cloud Storage	9.90 $
+Итого	22.84 $
 
 **Порядок действий:**
 1.	Пользователь отправляет текстовый запрос на API, размещённый в Cloud Run.
@@ -39,7 +46,8 @@ ________________________________________
 
 **Описание этапа:**
 На этом этапе сервис предоставляется ограниченному числу человек для тестирования. Требуется обеспечить масштабируемость и сбор аналитики.
-![screenshot]()
+![screenshot](https://github.com/ArthurMaslivets/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad/blob/e39e84de8b9f0478797e75213d3b560ff9876602/lab4/12.png)
+
 **Компоненты:**
 
 •	Cloud Run: Обработка запросов и взаимодействие с моделью.
@@ -52,6 +60,15 @@ ________________________________________
 
 •	Cloud Monitoring: Отслеживание метрик и ошибок.
 
+Стоимость за месяц, $:
+Cloud Run	70.20 $
+Firestore	26.89 $
+Vertex AI	72.25 $
+Cloud Monitoring 51.11 $
+Cloud SQL	115.62 $
+Cloud load balancing 82.25  $
+Итого	418.32 $
+
 **Порядок действий:**
 1.	Пользователь отправляет текстовый запрос на API, размещённый в Cloud Run.
 2.	Cloud Run загружает модель из Vertex AI и анализирует текст.
@@ -63,7 +80,8 @@ _______________________________________
 
 **Описание этапа:**
 Фокус на этом этапе на обслуживание большого числа пользователей.
- ![screenshot]()
+ ![screenshot](https://github.com/ArthurMaslivets/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-maslivets-ad/blob/e39e84de8b9f0478797e75213d3b560ff9876602/lab4/13.png)
+ 
 **Компоненты:**
 •	GKE (Google Kubernetes Engine): Размещение и управление контейнерами приложения
 
@@ -74,6 +92,14 @@ _______________________________________
 •	Firestore: Сохранение логов.
 
 •	Cloud Monitoring: Отслеживание метрик и ошибок.
+
+GKE	1215.00 $
+Firestore	26.89 $
+Vertex AI	72.25 $
+Cloud Monitoring 51.11 $
+Cloud SQL	115.62 $
+Cloud load balancing 557.24 $
+Итого	2038.11 $
 
 **Порядок действий:**
 1.	Пользователь отправляет текстовый запрос на API, размещённый в Cloud Run.
